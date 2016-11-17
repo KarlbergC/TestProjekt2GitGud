@@ -1,5 +1,5 @@
---temp-output:C:\Visual studio\Projects\AnimalFarm\src\AnimalFarm\obj\Debug\netcoreapp1.0\
---out:C:\Visual studio\Projects\AnimalFarm\src\AnimalFarm\bin\Debug\netcoreapp1.0\AnimalFarm.dll
+--temp-output:C:\Users\Administrator\Desktop\Repositories\TestProjekt2GitGud\AnimalFarm\src\AnimalFarm\obj\Debug\netcoreapp1.0\
+--out:C:\Users\Administrator\Desktop\Repositories\TestProjekt2GitGud\AnimalFarm\src\AnimalFarm\bin\Debug\netcoreapp1.0\AnimalFarm.dll
 --define:DEBUG
 --define:TRACE
 --define:NETCOREAPP1_0
@@ -183,12 +183,12 @@
 --reference:C:\Users\Administrator\.nuget\packages\System.Threading.Timer\4.0.1\ref\netstandard1.2\System.Threading.Timer.dll
 --reference:C:\Users\Administrator\.nuget\packages\System.Xml.ReaderWriter\4.0.11\ref\netstandard1.3\System.Xml.ReaderWriter.dll
 --reference:C:\Users\Administrator\.nuget\packages\System.Xml.XDocument\4.0.11\ref\netstandard1.3\System.Xml.XDocument.dll
---resource:"C:\Visual studio\Projects\AnimalFarm\src\AnimalFarm\obj\Debug\netcoreapp1.0\AnimalFarmdotnet-compile.deps.json",AnimalFarm.deps.json
-C:\Visual studio\Projects\AnimalFarm\src\AnimalFarm\Program.cs
-C:\Visual studio\Projects\AnimalFarm\src\AnimalFarm\Startup.cs
-C:\Visual studio\Projects\AnimalFarm\src\AnimalFarm\Controllers\HomeController.cs
-C:\Visual studio\Projects\AnimalFarm\src\AnimalFarm\Models\Animal.cs
-C:\Visual studio\Projects\AnimalFarm\src\AnimalFarm\Models\DataManager.cs
-C:\Visual studio\Projects\AnimalFarm\src\AnimalFarm\Models\ViewModels\HomeCreateVM.cs
-C:\Visual studio\Projects\AnimalFarm\src\AnimalFarm\Models\ViewModels\HomeIndexListVM.cs
-C:\Visual studio\Projects\AnimalFarm\src\AnimalFarm\Models\ViewModels\HomeIndexVM.cs
+--resource:"C:\Users\Administrator\Desktop\Repositories\TestProjekt2GitGud\AnimalFarm\src\AnimalFarm\obj\Debug\netcoreapp1.0\AnimalFarmdotnet-compile.deps.json",AnimalFarm.deps.json
+C:\Users\Administrator\Desktop\Repositories\TestProjekt2GitGud\AnimalFarm\src\AnimalFarm\Program.cs
+C:\Users\Administrator\Desktop\Repositories\TestProjekt2GitGud\AnimalFarm\src\AnimalFarm\Startup.cs
+C:\Users\Administrator\Desktop\Repositories\TestProjekt2GitGud\AnimalFarm\src\AnimalFarm\Controllers\HomeController.cs
+C:\Users\Administrator\Desktop\Repositories\TestProjekt2GitGud\AnimalFarm\src\AnimalFarm\Models\Animal.cs
+C:\Users\Administrator\Desktop\Repositories\TestProjekt2GitGud\AnimalFarm\src\AnimalFarm\Models\DataManager.cs
+C:\Users\Administrator\Desktop\Repositories\TestProjekt2GitGud\AnimalFarm\src\AnimalFarm\Models\ViewModels\HomeCreateVM.cs
+C:\Users\Administrator\Desktop\Repositories\TestProjekt2GitGud\AnimalFarm\src\AnimalFarm\Models\ViewModels\HomeIndexListVM.cs
+C:\Users\Administrator\Desktop\Repositories\TestProjekt2GitGud\AnimalFarm\src\AnimalFarm\Models\ViewModels\HomeIndexVM.cs
