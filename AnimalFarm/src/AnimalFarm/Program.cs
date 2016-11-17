@@ -19,6 +19,7 @@ namespace AnimalFarm
                 .Build();
 
             host.Run();
+            //Här har Christoffer lagt till saker! 8==D~~~~
         }
     }
 }
