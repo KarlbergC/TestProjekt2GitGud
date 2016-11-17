@@ -1,0 +1,23 @@
+﻿@addTagHelper *, Microsoft.AspNetCore.Mvc.TagHelpers
+@model AnimalFarm.Models.ViewModels.HomeIndexVM
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title>Håkans Farm</title>
+</head>
+<body>
+    <h1>Håkans Farm @Model.Date.ToString("d")</h1>
+    <ul>
+        @foreach (var item in Model.ListItems)
+        {
+            <li>
+                @item.Name, @item.AnimalType
+                @if (item.IsDangerous)
+                {
+                    <span style="color:red">\*!FARLIG!*/</span>
+                }
+            </li>
+        }
+    </ul>
+    <a asp-controller="home" asp-action="create">Lägg till nytt djur</a>
+</body>
+</html>
