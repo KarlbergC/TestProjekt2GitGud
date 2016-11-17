@@ -19,6 +19,8 @@ namespace AnimalFarm
                 .Build();
 
             host.Run();
+
+            //Nu ändrar jag i mästar grenen.
         }
     }
 }
